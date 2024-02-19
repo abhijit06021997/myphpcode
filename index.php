@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Load Balancer Test</title>
+        <title>abhijitramteke.cloud</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
